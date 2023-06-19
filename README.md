@@ -1,5 +1,9 @@
 # Modelo de aprendizaje automático para predecir edades a partir de fotos de personas usando redes neuronales convolucionales
 
+<div id="header" align="center">
+  <img src="https://github.com/angelicavelez/ml_model_predict_ages_from_photos_people_cnn/banner_cnn.png"/>
+</div>
+
 # Descripción del proyecto
 A la cadena de supermercados **Good Seed** le gustaría explorar si la ciencia de los datos puede ayudarle a cumplir con las leyes sobre el alcohol, al asegurarse de no vender alcohol a personas menores de edad. Vamos a realizar esa evaluación, teniendo en cuenta lo siguiente:
 - Las tiendas están equipadas con cámaras en el área de pago, las cuales se activan cuando una persona está comprando alcohol.
