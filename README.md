@@ -1,7 +1,7 @@
 # Modelo de aprendizaje automático para predecir edades a partir de fotos de personas usando redes neuronales convolucionales
 
 <div id="header" align="center">
-  <img src="https://github.com/angelicavelez/ml_model_predict_ages_from_photos_people_cnn/banner_cnn.png"/>
+  <img src="https://github.com/angelicavelez/ml_model_predict_ages_from_photos_people_cnn/blob/main/banner_cnn.png"/>
 </div>
 
 # Descripción del proyecto
